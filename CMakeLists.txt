@@ -24,6 +24,7 @@ set(DOGAN_SRC
   src/draw.cpp
   src/init.cpp
   src/config_parser.cpp
+  src/game.cpp
 )
 
 add_executable(dogan ${DOGAN_SRC})
